@@ -1,8 +1,8 @@
 items:
   - text: Info
     url: https://diablocheats.netlify.app/info/
-  - text: Store
-    url: https://diablocheats.netlify.app/store/
+  - text: Products
+    url: https://diablocheats.netlify.app/products/
   - text: Status
     url: https://diablocheats.netlify.app/status/
   - text: Contact
