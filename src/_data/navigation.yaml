@@ -1,11 +1,11 @@
 items:
   - text: Info
-    url: /info
+    url: https://diablocheats.netlify.app/info/
   - text: Store
-    url: store
+    url: https://diablocheats.netlify.app/store/
   - text: Status
-    url: status
+    url: https://diablocheats.netlify.app/status/
   - text: Contact
-    url: contact
+    url: https://diablocheats.netlify.app/contact/
   - text: Admin
-    url: admin
+    url: https://diablocheats.netlify.app/admin/
