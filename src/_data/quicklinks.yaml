@@ -5,9 +5,9 @@ links:
   - title: Telegram
     url: https://t.me/+NtZbSwENHlxiZTFh
     desc: " "
-  - title: Store
-    url: store
+  - title: Products
+    url: /products
     desc: " "
   - title: Status
-    url: status
+    url: /status
     desc: " "
