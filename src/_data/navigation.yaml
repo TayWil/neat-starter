@@ -7,3 +7,5 @@ items:
     url: status
   - text: Contact
     url: contact
+  - text: Admin
+    url: admin
