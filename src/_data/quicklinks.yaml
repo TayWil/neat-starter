@@ -8,3 +8,6 @@ links:
   - title: Store
     url: store
     desc: " "
+  - title: Status
+    url: status
+    desc: " "
