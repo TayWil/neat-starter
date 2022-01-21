@@ -1,10 +1,9 @@
----
 items:
-  - text: Store
-    url: "store"
-  - text: Status
-    url: "status"
-  - text: Contact
-    url: "contact"
   - text: Info
-    url: "/info"
+    url: /info
+  - text: Store
+    url: store
+  - text: Status
+    url: status
+  - text: Contact
+    url: contact
